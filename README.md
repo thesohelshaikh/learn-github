@@ -12,9 +12,9 @@ Start from [here](https://guides.github.com/activities/hello-world/)
 - [Git Tutorial by Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
 
 ## Extras
-- https://www.youtube.com/watch?v=0SJCYPsef54&t=535s
 - [Git book](progit.pdf)
 - [Markdown cheatsheet](markdown-cheatsheet-online.pdf)
 - [GitNotesForProfessionals](GitNotesForProfessionals.pdf)
 - https://www.webpagefx.com/tools/emoji-cheat-sheet/
+- https://www.youtube.com/watch?v=0SJCYPsef54&t=535s
 
