@@ -2,6 +2,7 @@
 A guide for learning git and github for beginners.
 
 Start from [here](https://guides.github.com/activities/hello-world/)
+
 ## Interactive guides
 - https://services.github.com/on-demand/intro-to-github/
 - https://lab.github.com/
@@ -17,4 +18,6 @@ Start from [here](https://guides.github.com/activities/hello-world/)
 - [GitNotesForProfessionals](GitNotesForProfessionals.pdf)
 - https://www.webpagefx.com/tools/emoji-cheat-sheet/
 - https://www.youtube.com/watch?v=0SJCYPsef54&t=535s
+
+#### :gift:If you are a student, check out [GitHub Education](https://education.github.com/pack) for student benifits.:gift:
 
