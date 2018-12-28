@@ -2,6 +2,7 @@
 A guide for learning git and github for beginners.
 
 Start from [here](https://guides.github.com/activities/hello-world/)
+- [git concepts simplified](http://gitolite.com/gcs.html#(1))
 
 ## Interactive guides
 - https://services.github.com/on-demand/intro-to-github/
