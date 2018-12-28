@@ -13,7 +13,7 @@ Start from [here](https://guides.github.com/activities/hello-world/)
 - [Git Tutorial by Corey Schafer](https://www.youtube.com/watch?v=HVsySz-h9r4&list=PL-osiE80TeTuRUfjRe54Eea17-YfnOOAx)
 
 ## Extras
-- [Git book](progit.pdf)
+- [Git book](https://git-scm.com/book/en/v2)
 - [Markdown cheatsheet](markdown-cheatsheet-online.pdf)
 - [GitNotesForProfessionals](GitNotesForProfessionals.pdf)
 - https://www.webpagefx.com/tools/emoji-cheat-sheet/
